@@ -1,0 +1,7 @@
+{
+  "name": "hydroguard",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
